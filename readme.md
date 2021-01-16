@@ -1,6 +1,6 @@
 ## Hey I'm Morgan Craft
 
-> I started my career as a full-stack engineer doing LAMP development in __NYC__ and worked at several successful startups.  I transitioned to engineering leadership and eventually went onto co-found [gitBabel](https://gitbabel.com) a knowledge & learning platform that enable document-driven cultures.
+> I started my career as a full-stack engineer doing LAMP development in __NYC__ and worked at several successful startups.  I transitioned to engineering leadership and eventually went onto co-found [gitBabel](https://gitbabel.com) a knowledge & learning platform that enables document-driven cultures.
 
 I also provide mentoring and consulting services, feel free to connect with me at the following:
 
